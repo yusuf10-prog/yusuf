@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bcc3edda-6eea-4ecc-83a3-83a82bbda89a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Bana_aitOrnekler/Koy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SocrativeSoruları/day_17_01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SocrativeSoruları/day_17_02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SocrativeSoruları/day_17_03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SocrativeSoruları/day_17_04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SocrativeSoruları/day_17_05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SocrativeSoruları/day_17_06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SocrativeSoruları/day_18_01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SocrativeSoruları/day_18_02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SocrativeSoruları/day_18_03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SocrativeSoruları/day_18_04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SocrativeSoruları/day_18_05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SocrativeSoruları/day_18_06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SocrativeSoruları/day_19_01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SocrativeSoruları/day_19_02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01_Constructor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day28_ConstructorCall/C01_CostructorCall.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day29_passByValue/C02_PassByValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day29_passByValue/C03_PassByValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day29_passByValue/C04_PassByValueCokluElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day29_passByValue/C05_Immutablity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day30_immutableClasses/C01_StringPool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day30_immutableClasses/C02_LocalTime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day31_dateTime/C01_LocalDate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day31_dateTime/C02_LocalDateTime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day32_stringBuilder_accesModifier/C01_StringBuilderOlusturma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day32_stringBuilder_accesModifier/C02_stringBuilderMethodlari.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day32_stringBuilder_accesModifier/C03_StringBuilder_StringMethodlari.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day32_stringBuilder_accesModifier/C04_BaskaObjelerleKarsilastirma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day32_stringBuilder_accesModifier/C05_.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day32_stringBuilder_accesModifier/C06_Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day33_encapsulation_inherictance/C01_Pazarlama.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day33_encapsulation_inherictance/C02_SatinAlma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day33_encapsulation_inherictance/C03_GenelMudur.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day33_encapsulation_inherictance/C04_Okul.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day33_encapsulation_inherictance/C05_Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day34_inheritance/Araba.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day34_inheritance/BToyota.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day34_inheritance/Corolla.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day34_inheritance/DRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day34_inheritance/EHayvanlar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day34_inheritance/FKuslar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day34_inheritance/GAvciKuslar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day34_inheritance/HRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day35_inheritance/Araba.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day35_inheritance/BToyota.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day35_inheritance/Corolla.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day35_inheritance/DHastane.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day35_inheritance/EMuhasebe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day35_inheritance/FDoktor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day36_inheritanceDataTypeKullanimi/AHayvan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day36_inheritanceDataTypeKullanimi/BKuslar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day36_inheritanceDataTypeKullanimi/CAvciKuslar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day36_inheritanceDataTypeKullanimi/DVariableRunner.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2ReiBckrZEP3gjKz4wcik8wwtTD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/yusuf/IdeaProjects/untitled1/src/day35_inheritance&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/day35_inheritance" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.DVariableRunner">
+    <configuration name="Corolla" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day35_inheritance.Corolla" />
+      <module name="untitled1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day35_inheritance.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DVariableRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day36_inheritanceDataTypeKullanimi.DVariableRunner" />
+      <module name="untitled1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day36_inheritanceDataTypeKullanimi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FDoktor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day35_inheritance.FDoktor" />
+      <module name="untitled1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day35_inheritance.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day34_inheritance.HRunner" />
+      <module name="untitled1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day34_inheritance.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Koy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Bana_aitOrnekler.Koy" />
+      <module name="untitled1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Bana_aitOrnekler.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DVariableRunner" />
+        <item itemvalue="Application.HRunner" />
+        <item itemvalue="Application.Koy" />
+        <item itemvalue="Application.FDoktor" />
+        <item itemvalue="Application.Corolla" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bcc3edda-6eea-4ecc-83a3-83a82bbda89a" name="Changes" comment="" />
+      <created>1687616813006</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1687616813006</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/src$day_16_10.ic" NAME="day_16_10 Coverage Results" MODIFIED="1691658208014" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>SocrativeSoruları.*</FILTER>
+    </SUITE>
+  </component>
+</project>
